@@ -136,7 +136,7 @@
             <section class="page-nav-title">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-6 col-sm-6"><h1>Project Name</h1></div>
+                        <div class="col-md-6 col-sm-6"><h1>G4 Corporation</h1></div>
                         <div class="col-md-6 col-sm-6">
                             <!--<div class="row">
                                     <div class="col-md-5 col-sm-5 center" style="float:right">

@@ -1,6 +1,22 @@
 <md-tab label="Vehicle Monitoring">
 	<md-content class="md-padding">
-	  <h1 class="md-display-2">Vechicle Monitoring</h1>
-	  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla venenatis ante augue. Phasellus volutpat neque ac dui mattis vulputate. Etiam consequat aliquam cursus. In sodales pretium ultrices. Maecenas lectus est, sollicitudin consectetur felis nec, feugiat ultricies mi.</p>
+	  <div class="row">
+	  	<div class="col-md-3">
+	  		Image Here
+	  	</div>	
+	  	<div class="col-md-4">
+	  		<div class="row">
+	  			<div><label>Truck # :</label> 123123</div>
+	  			<div><label>Cargo Capacity :</label></div>
+	  			<div><label>Type of Truck :</label></div>
+	  			<div><label>Fuel Type :</label></div>
+	  			<div><label>Tank Capacity :</label></div>
+	  		</div>	
+	  	</div>
+	  	<div class="col-md-4">
+	  		<div><label>Date of Last Change Oil :</label></div>
+	  		<div><label>Distance Covered :</label></div>
+	  	</div>
+	  </div>
 	</md-content>
 </md-tab>

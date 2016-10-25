@@ -1,6 +1,25 @@
 <md-tab label="Scheduling">
 	<md-content class="md-padding">
-	  <h1 class="md-display-2">Scheduling</h1>
-	  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla venenatis ante augue. Phasellus volutpat neque ac dui mattis vulputate. Etiam consequat aliquam cursus. In sodales pretium ultrices. Maecenas lectus est, sollicitudin consectetur felis nec, feugiat ultricies mi.</p>
+	  <table class="table">
+	  <thead>
+	    <tr>
+	      <th>Truck</th>
+	      <th>Customer Name</th>
+	      <th>Address</th>
+	      <th>Items</th>
+	      <th>Best Route</th>
+	    </tr>
+	  </thead>
+	  <tbody>
+	    <tr>
+	      <td>Driver</td>
+	      <td>Juan Dela Cruz</td>
+	      <td>123 Street</td>
+	      <td>Quantity</td>
+	      <td><a href="#">View Route</a></td>
+	    </tr>
+	   
+	  </tbody>
+	</table>
 	</md-content>
 </md-tab>
